@@ -21,6 +21,7 @@
 -- FROM EVALUATION EV , ELEMENT ELEMENT
 -- where EV 
 ---exercice 2
+-- SELECT * FROM FPJ;
 -- ACCEPT s_n1 PROMPT'saisir le premier entier';
 -- ACCEPT s_n2 PROMPT'saisir le deuxieme entier';
 -- DECLARE
